@@ -1,0 +1,58 @@
+Find the longest subarray with sum K.
+2. Solve valid parentheses / minimum brackets removal.
+3. Find top K frequent elements.
+4. Count number of islands in a matrix.
+5. Solve merge intervals or next permutation.
+1) Advanced Programming for AI – Python
+Prepare these topics
+Python syntax, loops, functions, list/dict/tuple operations, file handling, exception handling,
+OOP, decorators, comprehensions, pandas basics, and simple data cleaning.
+Practice questions
+1. Given a list of strings, group all anagrams together using a dictionary.
+2. Remove duplicate elements from a list while preserving the original order.
+3. Read a CSV file with pandas, fill missing values appropriately, and generate summary
+statistics by group.
+4. Write a custom exception for invalid input and use it in a student validation function.
+5. Write a decorator that measures the execution time of a function.
+2) Advanced Programming for AI – Java Programming
+Prepare these topics
+OOP concepts, constructors, inheritance, polymorphism, exceptions, collections, strings,
+streams, threads, and basic Spring/JVM/JDK/JRE awareness.
+Practice questions
+1. Implement an LRU cache using HashMap and a doubly linked list.
+2. Find the first non-repeating character in a string using Java collections.
+3. Model a simple Student–Course system using inheritance and encapsulation.
+4. Use Stream API to filter employees by department and sort them by salary.
+5. Write a multithreaded producer–consumer program using BlockingQueueandi
+
+
+
+
+
+Find the longest subarray with sum K.
+2. Solve valid parentheses / minimum brackets removal.
+3. Find top K frequent elements.
+4. Count number of islands in a matrix.
+5. Solve merge intervals or next permutation.
+1) Advanced Programming for AI – Python
+Prepare these topics
+Python syntax, loops, functions, list/dict/tuple operations, file handling, exception handling,
+OOP, decorators, comprehensions, pandas basics, and simple data cleaning.
+Practice questions
+1. Given a list of strings, group all anagrams together using a dictionary.
+2. Remove duplicate elements from a list while preserving the original order.
+3. Read a CSV file with pandas, fill missing values appropriately, and generate summary
+statistics by group.
+4. Write a custom exception for invalid input and use it in a student validation function.
+5. Write a decorator that measures the execution time of a function.
+2) Advanced Programming for AI – Java Programming
+Prepare these topics
+OOP concepts, constructors, inheritance, polymorphism, exceptions, collections, strings,
+streams, threads, and basic Spring/JVM/JDK/JRE awareness.
+Practice questions
+1. Implement an LRU cache using HashMap and a doubly linked list.
+2. Find the first non-repeating character in a string using Java collections.
+3. Model a simple Student–Course system using inheritance and encapsulation.
+4. Use Stream API to filter employees by department and sort them by salary.
+5. Write a multithreaded producer–consumer program using BlockingQueue
+
